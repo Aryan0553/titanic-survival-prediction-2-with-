@@ -58,7 +58,6 @@ Target Variable: **Survived**
 - Cross-Validation Accuracy (5-fold): ~63.9%
 
 ---
-
 ## 🚀 How to Run
 ```bash
 pip install pandas numpy scikit-learn
