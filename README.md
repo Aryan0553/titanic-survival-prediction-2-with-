@@ -62,4 +62,3 @@ Target Variable: **Survived**
 ```bash
 pip install pandas numpy scikit-learn
 
-
