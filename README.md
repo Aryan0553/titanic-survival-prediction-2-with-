@@ -16,6 +16,7 @@ It demonstrates clean preprocessing, feature engineering, model training, evalua
 - Decision Tree Classification
 - Cross Validation
 - Pipeline Architecture
+- data cleaning 
 
 ---
 ## ⚙️ Tech Stack
